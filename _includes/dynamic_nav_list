@@ -1,0 +1,22 @@
+<nav class="nav__list">
+  <h3 class="nav__title" style="padding-left: 0;">Documents</h3>
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+    <li>
+      <span class="nav__sub-title">Category</span>
+      <ul>
+        {% assign categories = site.categories | sort %}
+        {% for category in categories %}
+          {% assign category_name = category[0] %}
+          {% assign posts_count = category[1].size %}
+          <li>
+            <a href="/categories/#{{ category_name | slugify }}"{% if page.categories contains category_name %} class="active"{% endif %}>
+              {{ category_name | capitalize }} <span class="nav__count">({{ posts_count }})</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>

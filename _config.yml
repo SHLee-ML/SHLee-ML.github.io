@@ -330,4 +330,4 @@ defaults:
       show_date: true
       toc: true
       sidebar:
-        nav: docs
+        nav: "category-nav"

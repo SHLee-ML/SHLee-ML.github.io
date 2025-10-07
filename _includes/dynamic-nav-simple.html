@@ -1,0 +1,8 @@
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign category_name = category[0] %}
+  {% assign posts_count = category[1].size %}
+  <a href="/categories/#{{ category_name | slugify }}" style="display: block; margin-bottom: 5px;">
+    {{ category_name | capitalize }} ({{ posts_count }})
+  </a>
+{% endfor %}

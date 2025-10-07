@@ -1,0 +1,22 @@
+<!-- 동적 카테고리 네비게이션 -->
+<div class="sidebar__right">
+  <nav class="nav__list">
+    <h3 class="nav__title">Category</h3>
+    {% assign categories = site.categories | sort %}
+    {% if categories.size > 0 %}
+      <ul>
+        {% for category in categories %}
+          {% assign category_name = category[0] %}
+          {% assign posts_count = category[1].size %}
+          <li>
+            <a href="/categories/#{{ category_name | slugify }}">
+              {{ category_name | capitalize }} ({{ posts_count }})
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>카테고리가 없습니다.</p>
+    {% endif %}
+  </nav>
+</div>
