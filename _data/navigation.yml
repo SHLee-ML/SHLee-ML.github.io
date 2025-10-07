@@ -1,11 +1,18 @@
 # main links
 main:
    - title: "About"
-     url: https://shlee-ml.github.io/minimal-mistakes/about/
-   - title: "Category"
+     url: /about/
+   - title: "Categories"
      url: /categories/
    - title: "Tags"
      url: /tags/
+
+# 동적 카테고리 메뉴 (사이드바용)
+category-nav:
+  - title: "카테고리"
+    children:
+      - title: "All Categories"
+        url: /categories/
 
 docs:
   - title: "Documentation"
