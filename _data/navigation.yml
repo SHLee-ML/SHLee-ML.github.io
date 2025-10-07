@@ -1,9 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "About"
+     url: https://shlee-ml.github.io/minimal-mistakes/about/
+   - title: "Category"
+     url: /categories/
+   - title: "Tags"
+     url: /tags/
+
+docs:
+  - title: "Documentation"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
