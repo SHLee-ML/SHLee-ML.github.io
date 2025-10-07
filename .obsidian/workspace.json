@@ -11,12 +11,14 @@
             "id": "62dcbbdb2dc7eff6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "screenshot.png"
+                "file": "_posts/2025-10-07-01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "screenshot"
+              "icon": "lucide-file",
+              "title": "2025-10-07-01"
             }
           }
         ]
@@ -167,8 +169,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "62dcbbdb2dc7eff6",
+  "active": "072d78c95f4efbd3",
   "lastOpenFiles": [
+    "attachments/figure_2_phase1_baseline.png",
+    "screenshot.png",
     "screenshot-layouts.png"
   ]
 }
