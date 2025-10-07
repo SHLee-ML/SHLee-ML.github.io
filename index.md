@@ -1,10 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: 
+title: "안녕하세요! 👋"
 ---
-
-## 안녕하세요! 👋
-
 좋은 하루 보내시길 바랍니다.
 
