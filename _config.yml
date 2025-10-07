@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "air"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sang Hyeok, Lee (이상혁)"
 title_separator          : "|"
-subtitle                 : "이상혁의 개인 블로그" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Sang Hyeok, LEE (이상혁)"
 description              : "An amazing website."
 url                      : "https://SHLee-ML.github.io"
@@ -116,8 +116,8 @@ author:
   name             : "Sang Hyeok, Lee(이상혁)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "배고픈 사람입니다."
-  location         : "Seoul/Korea"
-  email            : "sanghyeok.lee.32@gmail.com"
+  location         : "Seoul/Republic of Korea"
+  email            : # "sanghyeok.lee.32@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,11 +1,9 @@
 # main links
 main:
-   - title: "About"
+   - title: "ABOUT"
      url: /about/
-   - title: "Categories"
+   - title: "BLOG"
      url: /categories/
-   - title: "Tags"
-     url: /tags/
 
 # 동적 카테고리 메뉴 (사이드바용)
 category-nav:
