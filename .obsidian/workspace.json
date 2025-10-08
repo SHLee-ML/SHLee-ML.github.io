@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "684f09fd5b51b63e",
+        "id": "ba00c145b37d93ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b1415f051e05c0",
+            "id": "1353b82e8b133301",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-10-07-00_데이터 과학.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-07-00_데이터 과학"
+              "title": "새 탭"
             }
           }
         ]
@@ -169,11 +165,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "e6b1415f051e05c0",
+  "active": "1353b82e8b133301",
   "lastOpenFiles": [
+    "_posts/2025-10-07-00_데이터 과학.md",
     "attachments/data_example_20251008.png",
     "_site/attachments/data_example_20251008.png",
-    "_posts/2025-10-07-00_데이터 과학.md",
     "_site/data science/00_데이터-과학/index.html",
     "_site/data science/00_데이터-과학",
     "_site/data science",
