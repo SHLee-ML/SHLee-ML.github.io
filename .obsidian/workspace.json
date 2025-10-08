@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0527e3858720930",
+        "id": "684f09fd5b51b63e",
         "type": "tabs",
         "children": [
           {
-            "id": "5447d988b846393c",
+            "id": "e6b1415f051e05c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "348c65198f2e1d80",
@@ -170,9 +169,16 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "5447d988b846393c",
+  "active": "e6b1415f051e05c0",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251008163925.png",
+    "attachments/data_example_20251008.png",
+    "_site/attachments/data_example_20251008.png",
+    "_posts/2025-10-07-00_데이터 과학.md",
+    "_site/data science/00_데이터-과학/index.html",
+    "_site/data science/00_데이터-과학",
+    "_site/data science",
+    "_site/attachments/Pasted image 20251008163925.png",
+    "_site/attachments",
     "post_template/template.md",
     "_posts/무제.md",
     "_site/post_template/template/index.html",
@@ -180,7 +186,6 @@
     "_site/post_template/template.md",
     "_site/post_template/무제.md",
     "_site/post_template",
-    "_posts/2025-10-07-00_데이터 과학.md",
     "post_template/single_post_template.md",
     "_site/post_template/single_post_template/index.html",
     "_site/post_template/single_post_template",
@@ -195,8 +200,6 @@
     "docs/_pages/portfolio-archive.md",
     "docs/_pages/page-b.md",
     "docs/_pages/page-a.md",
-    "_site/01/index.html",
-    "_site/01",
     "test/_recipes/chocolate-chip-cookies.md",
     "attachments/figure_2_phase1_baseline.png",
     "screenshot.png",
