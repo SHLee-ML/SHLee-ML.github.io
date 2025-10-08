@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-10-07-01.md",
+                "file": "_posts/2025-10-07-00_데이터 과학.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-07-01"
+              "title": "2025-10-07-00_데이터 과학"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "348c65198f2e1d80",
@@ -171,6 +172,7 @@
   },
   "active": "5447d988b846393c",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251008163925.png",
     "post_template/template.md",
     "_posts/무제.md",
     "_site/post_template/template/index.html",
@@ -178,7 +180,7 @@
     "_site/post_template/template.md",
     "_site/post_template/무제.md",
     "_site/post_template",
-    "_posts/2025-10-07-01.md",
+    "_posts/2025-10-07-00_데이터 과학.md",
     "post_template/single_post_template.md",
     "_site/post_template/single_post_template/index.html",
     "_site/post_template/single_post_template",
