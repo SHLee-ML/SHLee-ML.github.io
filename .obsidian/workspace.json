@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba00c145b37d93ad",
+        "id": "c69f1993001cc534",
         "type": "tabs",
         "children": [
           {
-            "id": "1353b82e8b133301",
+            "id": "654d3ac41f876d60",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,9 +165,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1353b82e8b133301",
+  "active": "072d78c95f4efbd3",
   "lastOpenFiles": [
+    "_posts/2025-10-09-통계학.md",
+    "_site/statistics/통계학/index.html",
+    "_site/statistics/통계학",
+    "_site/statistics",
     "_posts/2025-10-07-00_데이터 과학.md",
+    "docs/_posts/2016-09-21-gemified-theme-alpha.md",
+    "test/_posts/2009-09-05-edge-case-no-yaml-title.md",
+    "_pages/tag-archive.md",
+    "CHANGELOG.md",
     "attachments/data_example_20251008.png",
     "_site/attachments/data_example_20251008.png",
     "_site/data science/00_데이터-과학/index.html",
@@ -183,11 +191,8 @@
     "_site/post_template/무제.md",
     "_site/post_template",
     "post_template/single_post_template.md",
-    "_site/post_template/single_post_template/index.html",
-    "_site/post_template/single_post_template",
     "_site/post_template/single_post_template.md",
     "index.md",
-    "post_template",
     "docs/screenshot.png",
     "docs/screenshot-layouts.png",
     "docs/_portfolio/foo-bar-website.md",
